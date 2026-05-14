@@ -1,6 +1,6 @@
 # Blokaly Skills
 
-A collection of personal agent skills for pi.
+A collection of personal agent skills for AI agents.
 
 ## Structure
 
