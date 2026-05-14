@@ -1,0 +1,32 @@
+{
+  "feeds": [
+    {"url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+    {"url": "https://0dayfans.com/feed.rss"},
+    {"url": "https://www.bleepingcomputer.com/feed"},
+    {"url": "https://cybersecuritynews.com/feed"},
+    {"url": "https://feeds.feedburner.com/cyber-security-news"},
+    {"url": "https://googleonlinesecurity.blogspot.com/atom.xml"},
+    {"url": "https://haveibeenpwned.com/feed/breaches/"},
+    {"url": "https://krebsonsecurity.com/feed/"},
+    {"url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"},
+    {"url": "https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml"},
+    {"url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml"},
+    {"url": "https://www.ncsc.gov.uk/api/1/services/v1/blog-post-rss-feed.xml"},
+    {"url": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"},
+    {"url": "https://www.nist.gov/news-events/news/rss.xml"},
+    {"url": "https://www.nist.gov/news-events/events/rss.xml"},
+    {"url": "https://www.nist.gov/news-events/cybersecurity/rss.xml"},
+    {"url": "https://www.nist.gov/blogs/cybersecurity-insights/rss.xml"},
+    {"url": "https://www.nist.gov/blogs/taking-measure/rss.xml"},
+    {"url": "https://seclists.org/rss/oss-sec.rss"},
+    {"url": "https://seclists.org/rss/fulldisclosure.rss"},
+    {"url": "https://www.schneier.com/feed/atom/"},
+    {"url": "https://securityaffairs.com/feed/"},
+    {"url": "https://feeds.feedburner.com/TheHackersNews"},
+    {"url": "https://trustedsec.com/feed.rss"}
+  ],
+  "defaults": {
+    "period": "24h",
+    "storagePath": ""
+  }
+}
