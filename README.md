@@ -35,4 +35,10 @@ The `prompts/` folder contains prompts for generating `SKILL.meta.md` files from
 
 ## Anything Else
 
+- **[security-rss-feed](./skills/anything-else/security-rss-feed/SKILL.md)** — Monitors security vulnerability and advisory RSS/JSON feeds, aggregates results, and generates consolidated reports.
+
 <!-- Add skills here as you create them -->
+
+## Disclaimer
+
+As the owner of this repository, I provide these skills "as is" and without any warranty of any kind, as further detailed in the [LICENSE](./LICENSE). I assume no liability or responsibility for any consequences, damages, or issues arising from the use, modification, or distribution of these skills. Use them at your own risk.
