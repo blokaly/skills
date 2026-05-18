@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "url": "https://cointelegraph.com/rss",
+      "name": "CoinTelegraph"
+    },
+    {
+      "url": "https://decrypt.co/feed",
+      "name": "Decrypt"
+    },
+    {
+      "url": "https://www.theblock.co/rss.xml",
+      "name": "The Block"
+    },
+    {
+      "url": "https://coindesk.com/arc/outboundfeeds/rss/",
+      "name": "CoinDesk"
+    },
+    {
+      "url": "https://www.newsbtc.com/feed/",
+      "name": "NewsBTC"
+    },
+    {
+      "url": "https://bitcoinmagazine.com/.rss/full/",
+      "name": "Bitcoin Magazine"
+    },
+    {
+      "url": "https://thedefiant.io/feed",
+      "name": "The Defiant"
+    },
+    {
+      "url": "https://coingape.com/feed/",
+      "name": "CoinGape"
+    },
+    {
+      "url": "https://blockworks.co/feed/",
+      "name": "Blockworks"
+    },
+    {
+      "url": "https://cryptobriefing.com/feed/",
+      "name": "Crypto Briefing"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=cryptocurrency+OR+bitcoin+OR+ethereum+OR+defi&hl=en-US&gl=US&ceid=US:en",
+      "name": "Google News Crypto"
+    }
+  ],
+  "defaults": {
+    "period": "24h",
+    "storagePath": ""
+  }
+}
